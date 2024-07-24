@@ -1,0 +1,33 @@
+#gameDiv{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}   
+
+#playerText{
+    color: blue;
+}
+
+#computerText {
+    color: red;
+}
+
+#rock{
+    background-color: yellow;
+}
+
+#paper{
+    background-color: brown;
+}
+
+#scissors{
+    background-color: chartreuse;
+}
